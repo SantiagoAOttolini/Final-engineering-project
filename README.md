@@ -9,7 +9,10 @@ Step Two: npm install in the client folder
 Step Three: npm run dev in the main folder
 
 #### Login form:
-![](assets/Login.PNG)
+![](assets/Login.png)
+
+#### Register form:
+![](assets/register.png)
 
 #### Metabolic analyzer:
 ![](assets/analyzer.PNG)
@@ -21,7 +24,7 @@ Step Three: npm run dev in the main folder
 ![](assets/comp2.PNG)
 
 #### BMI:
-![](assets/BMI.PNG)
+![](assets/bmi.PNG)
 
 #### Benefits:
 ![](assets/benefits.PNG)
