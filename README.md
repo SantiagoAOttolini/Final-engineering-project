@@ -5,8 +5,7 @@ This is the final engineering project. It has 4 core use cases and a complete se
 
 #### Install:
 * Step One: npm install in the main folder
-* Step Two: npm install in the client folder
-* Step Three: npm run dev in the main folder
+* Step Two: npm run dev in the main folder
 
 #### Login form:
 ![](assets/Login.png)
