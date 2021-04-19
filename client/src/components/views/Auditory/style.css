@@ -1,0 +1,25 @@
+.tableAuditory {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.titleTarjeta, .titleLogin, .titleMercadoPago{
+  width: 600px;
+  height: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+  background-color: rgb(125, 190, 228);
+}
+.tdAuditory,
+.thAuditory,
+.trAuditory {
+  border: 2px solid #c7b6b6;
+  text-align: left;
+}
+.userData {
+  font-size: 20px;
+  color: black;
+}
+.trAuditory:nth-child(even) {
+  background-color: #ffffff;
+}

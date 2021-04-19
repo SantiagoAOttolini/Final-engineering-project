@@ -1,0 +1,74 @@
+.imgPrice {
+  background-image: url("../../../assets//Precio.jpg");
+  width: 600px;
+  height: 600px;
+  box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+}
+
+.contactText, .contactText2{
+  box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+  background-color:  rgb(129, 175, 201);
+}
+.contactText2{
+height:200px
+}
+.textPrice{
+  width:350px;
+  height:38px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+  background-color:  rgb(125, 190, 228);
+}
+.titlePrice{
+  width: 380px;
+  height: 45px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+  background-color: rgb(125, 190, 228);
+}
+.btnMercadoPago {
+  cursor:pointer;
+  width: 415px;
+  height: 30px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: 1px solid rgb(18, 148, 223);
+  background: linear-gradient(to bottom, rgb(111, 191, 236), rgb(18, 148, 223));
+}
+
+@media (max-width: 1200px) {
+  .btnMercadoPago {
+    width: 350px;
+  }
+}
+@media (max-width: 1024px) {
+  .btnMercadoPago {
+    width: 315px;
+  }
+}
+
+@media (max-width: 900px) {
+  .btnMercadoPago {
+    width: 290px;
+  }
+}
+
+@media (max-width: 768px) {
+  .btnMercadoPago {
+    width: 250px;
+  }
+}
+
+@media (max-width: 495px) {
+  .btnMercadoPago {
+    width: 230px;
+  }
+}
+
+@media (max-width: 278px) {
+  .btnMercadoPago {
+    width: 200px;
+  }
+}

@@ -1,0 +1,24 @@
+.rowBenefit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .photoReward{
+    box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+  }
+  .titleBenefits{
+    width: 300px;
+    height: 35px;
+    border: none;
+    background-color: rgb(89, 165, 200);
+    color: white;
+   
+  }
+  @media (max-width: 428px) {
+    .containerImg {
+        width: 330px;
+        font-size: 1.3em;
+    }
+}

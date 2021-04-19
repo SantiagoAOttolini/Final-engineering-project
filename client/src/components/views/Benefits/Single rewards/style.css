@@ -1,0 +1,30 @@
+.titleBenefits {
+  width: 300px;
+  height: 33px;
+  border: none;
+  background-color: rgb(89, 165, 200);
+  color: white;
+}
+.titleAtributtes {
+  width: 300px;
+  height: 33px;
+  border: none;
+  background-color: rgb(89, 165, 200);
+  color: white;
+}
+
+.titleName,
+.titleDescription,
+.titleHourOfAtention,
+.titleCombo,
+.containerReward,
+.titleBenefits {
+  box-shadow: 5px 5px 6px 5px rgb(122, 121, 121);
+}
+.titleCategoria {
+  width: 200px;
+  height: 33px;
+  border: none;
+  background-color: rgb(89, 165, 200);
+  color: white;
+}

@@ -1,0 +1,20 @@
+{
+  "categoria": [
+    {
+      "id": "1",
+      "name": "Frutas"
+    },
+    {
+      "id": "2",
+      "name": "Verduras"
+    },
+    {
+      "id": "3",
+      "name": "Carnes"
+    },
+    {
+      "id": "4",
+      "name": "Lacteos"
+    }
+  ]
+}
